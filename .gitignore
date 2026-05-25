@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# virtual env
+venv/
+.venv/
+
+# model weights
+*.pth
+*.pt
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
