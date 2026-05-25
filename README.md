@@ -85,21 +85,16 @@ project/
 
 ## 模型文件说明
 
-由于模型文件体积较大，本仓库不包含：
+由于模型文件较大，未直接上传到 GitHub。
+
+请先下载模型文件，然后放入项目的 `model/` 目录中。
+
+百度网盘下载地址：
 
 ```txt
-open_clip_pytorch_model.bin
-LeavesDiseases_model.pth
-leaf_pest_detector_final.pth
+链接: https://pan.baidu.com/s/1KTzq5EReOAst3EGggvsckg?pwd=wgxw
+提取码: wgxw
 ```
-
-请手动放入：
-
-```txt
-model/
-```
-
-目录。
 
 ---
 
