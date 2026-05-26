@@ -1,30 +1,30 @@
-background
-Apple Scab Leaf
-Apple leaf
-Apple rust leaf
-Bell_pepper leaf
-Bell_pepper leaf spot
-Blueberry leaf
-Cherry leaf
-Corn Gray leaf spot
-Corn leaf blight
-Corn rust leaf
-Peach leaf
-Potato leaf early blight
-Potato leaf late blight
-Raspberry leaf
-Soyabean leaf
-Squash Powdery mildew leaf
-Strawberry leaf
-Tomato Early blight leaf
-Tomato Septoria leaf spot
-Tomato leaf
-Tomato leaf bacterial spot
-Tomato leaf late blight
-Tomato leaf mosaic virus
-Tomato leaf yellow virus
-Tomato mold leaf
-Tomato two spotted spider mites leaf
-grape leaf
-grape leaf black rot
-Potato leaf
+background（背景）
+Apple Scab Leaf（苹果黑星病叶片）
+Apple leaf（苹果叶片）
+Apple rust leaf（苹果锈病叶片）
+Bell_pepper leaf（甜椒叶片）
+Bell_pepper leaf spot（甜椒叶斑病）
+Blueberry leaf（蓝莓叶片）
+Cherry leaf（樱桃叶片）
+Corn Gray leaf spot（玉米灰斑病）
+Corn leaf blight（玉米叶枯病）
+Corn rust leaf（玉米锈病叶片）
+Peach leaf（桃树叶片）
+Potato leaf early blight（马铃薯早疫病叶片）
+Potato leaf late blight（马铃薯晚疫病叶片）
+Raspberry leaf（覆盆子叶片）
+Soyabean leaf（大豆叶片）
+Squash Powdery mildew leaf（南瓜白粉病叶片）
+Strawberry leaf（草莓叶片）
+Tomato Early blight leaf（番茄早疫病叶片）
+Tomato Septoria leaf spot（番茄壳针孢叶斑病）
+Tomato leaf（番茄叶片）
+Tomato leaf bacterial spot（番茄细菌性叶斑病）
+Tomato leaf late blight（番茄晚疫病叶片）
+Tomato leaf mosaic virus（番茄花叶病毒病）
+Tomato leaf yellow virus（番茄黄化病毒病）
+Tomato mold leaf（番茄霉叶病）
+Tomato two spotted spider mites leaf（番茄二斑叶螨危害叶片）
+grape leaf（葡萄叶片）
+grape leaf black rot（葡萄黑腐病叶片）
+Potato leaf（马铃薯叶片）
